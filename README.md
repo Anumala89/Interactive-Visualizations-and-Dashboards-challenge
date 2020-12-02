@@ -38,6 +38,13 @@ Here is an example of Test Subject ID No. 946
 ![alt text](https://github.com/Anumala89/Interactive-Visualizations-and-Dashboards-challenge/blob/main/Images/plotly1.png)
 
 
+![alt text](https://github.com/Anumala89/Interactive-Visualizations-and-Dashboards-challenge/blob/main/Images/plotly2.png)
+
+
+#### Link to the dashboard: 
+
+(https://anumala89.github.io/Interactive-Visualizations-and-Dashboards-challenge/)
+
 
 
 
