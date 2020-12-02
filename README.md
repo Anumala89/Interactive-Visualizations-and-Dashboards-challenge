@@ -35,7 +35,7 @@ Demographic information of each individual is displayed in a box  which was crea
 
 Here is an example of Test Subject ID No. 946
 
-C:\Users\anuth\Interactive-Visualizations-and-Dashboards-challenge\Images\plotly1.png
+![Alt text] (\Images\plotly1.png?raw=true "Bar Chart")
 
 
 
