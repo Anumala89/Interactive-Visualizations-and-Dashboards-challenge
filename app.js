@@ -1,5 +1,5 @@
 // use d3 to read the data on json file
-d3.json("./samples.json").then((importedData) => {
+d3.json("data/samples.json").then((importedData) => {
    console.log(importedData);
    
    // initialize with a data to be displayed
@@ -59,6 +59,9 @@ d3.json("./samples.json").then((importedData) => {
             //range: [-400, 3700],
             autorange: true,
             //dtick: 500
+         },
+         yaxis:{
+            autorange: true
          }
       }
 
